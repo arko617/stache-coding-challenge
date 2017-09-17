@@ -17,4 +17,12 @@ h1 {
 	font-family: Vollkorn;
 	font-weight: bold;
 	text-shadow: 5px 5px lightblue;
+	font-size: 45px;
+}
+
+@media screen and (max-width: 500px) and (min-width: 300px) {
+    h1 {
+        font-size: 30px;
+
+    }
 }

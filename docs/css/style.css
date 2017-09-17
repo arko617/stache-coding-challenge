@@ -40,4 +40,9 @@ h1 {
     h1 {
         font-size: 25px;
     }
+
+    .carousel-inner {
+		height: 100%;
+		border: 2px solid blue;
+	}
 }

@@ -1,6 +1,6 @@
 # Stache Coding Challenge
 
-###Instruction: 
+### Instruction: 
 Display all PNG files provided
 
 

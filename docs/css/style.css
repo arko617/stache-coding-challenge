@@ -37,10 +37,17 @@ h1 {
 	font-size: 45px;
 }
 
+label {
+	font-family: Vollkorn;
+	font-weight: bold;
+	font-size: 18px;
+}
+
 #heading {
 	margin-top: 30px;
 }
 
+/*For Mobile Display*/
 @media screen and (max-width: 500px) and (min-width: 300px) {
     h1 {
         color: black;

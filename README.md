@@ -3,4 +3,4 @@
 
 ### Instruction: 
 - Click the left and right arrows to navigate to the previous/next image.
-- Answer the question in the input provided to trigger a notification.
+- Answer the question in the input provided and then click the "submit" button to trigger a notification.

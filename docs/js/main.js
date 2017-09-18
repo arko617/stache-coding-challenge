@@ -11,6 +11,6 @@ var getInput = function(){
 	else{
 		document.getElementById("notification").style.backgroundColor = "red";
 		document.getElementById("notificationHeader").innerHTML = "Error";
-		document.getElementById("notificationText").innerHTML = "Incorrect Input";
+		document.getElementById("notificationText").innerHTML = "Incorrect Answer";
 	}
 }

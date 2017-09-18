@@ -65,7 +65,7 @@ label {
     label {
 		font-family: Vollkorn;
 		font-weight: bold;
-		font-size: 16px;
+		font-size: 15px;
 	}
 
     .carousel-inner {
@@ -85,7 +85,7 @@ label {
 	}
 
 	#heading {
-		margin-top: 10px;
+		margin-top: 17px;
 	}
 
 	.modal-body{
@@ -93,9 +93,9 @@ label {
 	}
 
 	#notificationHeader {
-		font-size: 16px;
+		font-size: 15px;
 	}
 
 	#notificationText {
-		font-size: 16px;
+		font-size: 15px;
 	}

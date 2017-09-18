@@ -65,7 +65,7 @@ label {
     label {
 		font-family: Vollkorn;
 		font-weight: bold;
-		font-size: 15px;
+		font-size: 17px;
 	}
 
     .carousel-inner {
@@ -93,10 +93,10 @@ label {
 	}
 
 	#notificationHeader {
-		font-size: 15px;
+		font-size: 17px;
 	}
 
 	#notificationText {
-		font-size: 15px;
+		font-size: 17px;
 	}
 }

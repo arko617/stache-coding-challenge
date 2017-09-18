@@ -15,17 +15,9 @@
 
 <div class="container">
 
+  <!-- Heading Title -->
   <center>
-    <!-- Heading Title -->
     <h1 id="heading">Stache Images Display</h1><br>
-
-    <!-- Question/Answer for user input action -->
-    <div class="form-group">
-      <label for="comment">How Many PNG Files Are Displayed? (Input Number Only)</label>
-      <input id="textInput" type="text" style="width: 50px">
-    </div>  
-    <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal" onclick="getInput()"><strong>Submit</strong></button>
-    <br><br>
   </center>
 
   <div id="myStache" class="carousel slide">
@@ -51,7 +43,18 @@
     </a>
 
   </div>
+
+  <!-- Question/Answer for user input action -->
+  <center>
+    <div class="form-group">
+      <label for="comment">How Many PNG Files Are Displayed? (Input Number Only)</label>
+      <input id="textInput" type="text" style="width: 50px">
+    </div>  
+    <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal" onclick="getInput()"><strong>Submit</strong></button>
+    <br><br>
+  <center>
 </div>
+
 
 <!-- Popup Notification using Bootstrap Modal-->
 <div id="myModal" class="modal fade" role="dialog">
